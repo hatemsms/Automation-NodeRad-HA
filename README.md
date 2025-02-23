@@ -3,4 +3,7 @@ This could be useful for people who are attempting to create an automation that 
 # Automation my kidsroom in NodeRed 
 [![Screenshot of the frontend](https://raw.githubusercontent.com/hatemsms/Automation-NodeRad-HA/refs/heads/main/Screenshot%202025-02-23%20110100.png)
 
+3 senarios Morning , night mode and Weekend mode 
+
+
 
